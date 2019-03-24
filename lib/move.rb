@@ -10,3 +10,6 @@ end
 def input_to_index(choice)
   choice.to_i - 1  
 end
+
+def move(board, index, piece = "X")
+end

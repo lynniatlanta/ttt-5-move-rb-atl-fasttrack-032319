@@ -12,5 +12,5 @@ def input_to_index(choice)
 end
 
 def move(board, index, piece = "X")
-
+board[0] = "x"
 end

@@ -13,6 +13,6 @@ end
 
 def move(board, index, piece = "X")
   puts "The player wants to move to #{index}"
-board[index] = "x"
+board[index] = piece
 end
 
